@@ -1,0 +1,8 @@
+*.jpg
+.env
+.ipynb_checkpoints/
+__pycache__/
+models/
+hf_cache/
+mlruns/
+data/
